@@ -3,3 +3,5 @@ resources:
 - service.yaml
 - route.yaml
 - hook-done.yaml
+- sa-hacker.yaml
+- sa-hacker-rb.yaml
