@@ -2,7 +2,6 @@ kind: RoleBinding
 apiVersion: rbac.authorization.k8s.io/v1
 metadata:
   name: sa-hacker-rb
-  namespace: my-app
 subjects:
   - kind: ServiceAccount
     name: sa-hacker
